@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-Barcelona, España/西班牙"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "每周要看月亮-See Yue"
+title                    : "aldredazhou"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yue Zhou"
@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alfredazhou/alfredazhou.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/avatar2.jpg"
-masthead_title           : "Yue Zhou"
+masthead_title           : "每周要看月亮-See Yue"
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
