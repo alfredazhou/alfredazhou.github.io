@@ -25,8 +25,8 @@ description              : "I see Y: perspnal website of Yue Zhou"
 url                      : "https://alfredazhou.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alfredazhou/alfredazhou.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/avatar2.jpg"
+teaser                   : /assets/images/avatar2.jpg
+logo                     : # " "
 masthead_title           : "每周要看月亮-See Yue"
 breadcrumbs              : true
 words_per_minute         : 200
