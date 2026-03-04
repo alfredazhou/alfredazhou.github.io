@@ -15,20 +15,27 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-Barcelona, España/西班牙"
+locale                   : "en-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "I see Y: personal website of Yue"
+title                    : "How to See the Moon"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Personal Website of Yue" # site tagline that appears below site title in masthead
 name                     : "Yue Zhou"
-description              : "About Yue"
+description              : "She wants to see the moon, and she also needs a job_The Moon of Yue."
 url                      : "https://alfredazhou.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alfredazhou/alfredazhou.github.io"
 teaser                   : "/assets/images/avatar2.jpg"
 logo                     : # " "
-masthead_title           : "每周要看月亮-See Yue"
+masthead_title           : "看月亮-See Yue"
 breadcrumbs              : true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
